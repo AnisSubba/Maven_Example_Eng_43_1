@@ -1,4 +1,4 @@
-package com.spartglobal.solid.substitutionexample;
+package com.spartglobal.solid.Solid_Shop.substitutionexample;
 
 public class Film {
     private String filmName;
